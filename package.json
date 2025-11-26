@@ -1,0 +1,24 @@
+{
+  "name": "aulas-mongoose-2025-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bancos-de-Dados-II/aulas-mongoose-2025-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bancos-de-Dados-II/aulas-mongoose-2025-2/issues"
+  },
+  "homepage": "https://github.com/Bancos-de-Dados-II/aulas-mongoose-2025-2#readme",
+  "dependencies": {
+    "mongoose": "^9.0.0"
+  }
+}
